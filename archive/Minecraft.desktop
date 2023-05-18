@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Icon=minecraft
+Name=Minecraft Launcher
+Exec=minecraft-launcher
+Path=/usr/share/minecraft
+Terminal=false
+Hidden=false
+Categories=Game
